@@ -1,0 +1,63 @@
+ *{
+
+    margin:0;
+    padding: 0;
+    align-items: 0;
+ }
+ body{
+    background-color: lightcyan;
+ }
+
+.name{
+height: 50px;
+width: 5000px;
+padding: 50px;
+align-items: center;
+align-content: center;
+font-size: 30px;
+color: plum;
+}
+.Form{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   padding-left:  100px;
+
+}
+.txt{
+height: 50px;
+width: 500px;
+color: palevioletred;
+box-shadow: plum;
+font-size: blue;
+
+}
+.btn{
+    height: 50px;
+    width: 100px; 
+    border-radius: 50px;
+    background-color: hotpink;
+    text-decoration-color: aqua;
+    align-items: center;
+    
+}
+th, td {
+    border: 1px solid;
+    background-color: pink;
+    justify-content: center; 
+
+    
+}
+h1{
+    color: palevioletred;
+}
+.logo{
+    color: plum;
+}
+.msg{
+    border: 1px solid;
+    background-color: pink;
+    justify-content: center; 
+    color: darkblue;
+}
